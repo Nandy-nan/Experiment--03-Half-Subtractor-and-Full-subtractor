@@ -33,22 +33,52 @@ Write the detailed procedure here
 
 
 ## Program:
+##Halfsubractor:
+![Screenshot 2024-01-02 041046](https://github.com/Nandy-nan/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/153698914/35879c7f-d449-46c9-af25-9e1c0ee68cca)
+
+##Full subractor:
+![Screenshot 2024-01-02 041055](https://github.com/Nandy-nan/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/153698914/19cf4575-a2a5-4d38-9650-d00c8cdd88f3)
+
+
+##RTL:
+
+![Screenshot 2024-01-02 041118](https://github.com/Nandy-nan/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/153698914/b6d688fa-c73c-4078-a324-54b67c43d073)
+
+![Screenshot 2024-01-02 041126](https://github.com/Nandy-nan/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/153698914/fff45b3c-160e-4f8c-8653-49d05b4d7568)
+
+
+
+##Truthtable:
+![Screenshot 2024-01-02 041103](https://github.com/Nandy-nan/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/153698914/e68de7e7-5c41-47a8-a70a-db404bd53a71)
+
+![Screenshot 2024-01-02 041110](https://github.com/Nandy-nan/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/153698914/1ed9ce9c-9fd4-4876-a8c2-3c6d2a82a725)
+
+
+
+
+
+
+
+
+
+
 /*
 Program to design a half subtractor and full subtractor circuit and verify its truth table in quartus using Verilog programming.
-Developed by: 
-RegisterNumber:  
+Developed by: R.Nandhana
+RegisterNumber:23005507  
 */
 
 ## Output:
 
-## Truthtable
+![Screenshot 2024-01-02 041138](https://github.com/Nandy-nan/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/153698914/c16f457b-b7cb-4e59-94b4-02310d772060)
+
+![Screenshot 2024-01-02 041147](https://github.com/Nandy-nan/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/153698914/41b77d44-b927-4a2b-96e6-061a39dd35a1)
 
 
 
-##  RTL realization
 
 
-## Timing diagram 
+
 
 ## Result:
 Thus the half subtractor and full subtractor circuits are designed and the truth tables is verified using quartus software.
